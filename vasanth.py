@@ -1,2 +1,2 @@
 def example():
-    return "wellcome to vglug"
+    return "welcome to vglug"
